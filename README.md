@@ -33,13 +33,13 @@ Front-End Developer responsible for building the full web interface, user flows,
 ![Home Page](public/images/HomePage.png)
 
 ### Patient Dashboard
-![Patient Dashboard](/images/PatientDashboard.png)
+![Patient Dashboard](public/images/PatientDashboard.png)
 
 ### Paramedic View (Read Only)
-![Paramedic View](/images/ParamedicView.png)
+![Paramedic View](public/images/ParamedicView.png)
 
 ### SOS Emergency Page
-![SOS Page](/images/SOSPage.png)
+![SOS Page](public/images/SOSPage.png)
 
 ---
 
