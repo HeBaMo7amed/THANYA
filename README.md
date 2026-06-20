@@ -30,7 +30,7 @@ Front-End Developer responsible for building the full web interface, user flows,
 ## Screenshots
 
 ### Guest Home Page
-![Home Page](/images/HomePage.png)
+![Home Page](public/images/HomePage.png)
 
 ### Patient Dashboard
 ![Patient Dashboard](/images/PatientDashboard.png)
