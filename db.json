@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "title": "جهاز تتبع ذكي V2",
+      "description": "جهاز مقاوم للماء مع بطارية تدوم 30 يومًا",
+      "price": 1500,
+      "currency": "EGP",
+      "image_url": "/images/band.png",
+      "in_stock": true
+    },
+    {
+      "id": "p2",
+      "title": "سوار طبي ذكي",
+      "description": "يراقب معدل ضربات القلب وضغط الدم",
+      "price": 950,
+      "currency": "EGP",
+      "image_url": "/images/WhatsApp Image 2025-10-10 at 7.47.26 AM (2).png",
+      "in_stock": false
+    }
+  ],
+
+  "history": [
+    {
+      "id": "alert_99",
+      "device_name": "ساعة الجد",
+      "time": "2026-02-15 10:30 PM",
+      "resolved": true,
+      "details": "تم التواصل مع العائلة"
+    },
+    {
+      "id": "alert_100",
+      "device_name": "ساعة العم",
+      "time": "2026-02-15 10:35 PM",
+      "resolved": false,
+      "details": "تم الضغط على زر SOS، جاري التواصل مع العائلة"
+    }
+  ],
+
+  "orders": [],
+
+  "devices": [
+    {
+      "device_id": "D001",
+      "name": "تتبع الساعة",
+      "status": "online",
+      "battery": 85,
+      "last_location": {
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "update_last": "منذ دقيقتين"
+    }
+  ],
+
+  "users": [
+    {
+      "id": "u123",
+      "name": "Ahmed Helmy",
+      "email": "ahmed@example.com",
+      "password": "123456",
+      "role": "admin",
+      "last_login": "2026-02-17T19:00:00Z"
+    },
+    {
+      "id": "u124",
+      "name": "Sara Ali",
+      "email": "sara@example.com",
+      "password": "123456",
+      "role": "user",
+      "last_login": "2026-02-17T18:00:00Z"
+    }
+  ]
+}
